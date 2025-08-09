@@ -1,0 +1,12 @@
+body {
+    color: aquamarine;
+    background-color: black;
+}
+h2 {
+
+}
+.just {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
